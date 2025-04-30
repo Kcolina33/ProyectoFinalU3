@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-image: url('./img/background-4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.myButtom{
+    background-color:#fcdce8;
+    padding: 10px;
+    border-radius:  10px;
+    color:#8c0c3c;
+    margin:8px;
+    border:none;
+    transition: all 0.2s ease-in-out;
+
+}
+
+.myButtom:hover{
+    background-color:#7a0a34;
+    color: #fcdce8;
+}
+
+
+
+
+p {
+    text-align: center;
+    color: black;
+    font-size: 1rem;
+  }
+
+* {
+    
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    }
+
+.myTittle{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    text-align: center;
+    color: #7a0a34;
+    margin-top: 2rem;
+}
+
+.col{
+    margin-top: 10px;
+    padding: 15px;
+}
+   
+.myFooterTitle{
+    
+    color:#8C0D48;
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+}
